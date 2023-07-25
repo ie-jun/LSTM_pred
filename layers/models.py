@@ -137,7 +137,7 @@ class MTGNN(nn.Module):
             'adj_mat': None
         }
 
-class MyLSTM(nn.Module):
+class MyLSTM(nn.Module): 
     #n_features는 input 1개의 차원 (col개수)
     def __init__(self,n_features, n_hidden=128, n_layers=2 , drop_out=0.2):
         super().__init__()
