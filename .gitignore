@@ -4,6 +4,6 @@
 /checkpoints/
 /venv/
 /lightning_logs/
-lstm_main.py
-multi_step_mtgnn_main.py
-nri_inference_multi_step.py
+#lstm_main.py
+#multi_step_mtgnn_main.py
+#nri_inference_multi_step.py
